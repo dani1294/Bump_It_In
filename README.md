@@ -1,4 +1,4 @@
-# [Bump it in] (https://bump-it-in.webflow.io/)
+# Bump it in
 
 by [Daniela Morales] (https://www.behance.net/dani1294)
 
@@ -34,7 +34,7 @@ To ensure the game will detect you correctly, follow the following setup:
 
 The game was designed within these dimensions. However, if the space you are working with is limited, accommodations to the code can be made. Please contact me with the dimensions of the area you are trying to work in and I will do my best to help you adapt the code to your needs.
 
-###Instructions
+### Instructions
 
 After downloading and installing the requirements on your computer:
 
@@ -47,7 +47,7 @@ After downloading and installing the requirements on your computer:
 
 ## Mouse or Trackpad Version
 
-###Instructions
+### Instructions
 
 1. Install Processing 3 (Download here)
 2. Download the Mouse Version of Bump it in
