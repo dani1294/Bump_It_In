@@ -1,6 +1,6 @@
 # Bump it in
 
-by [Daniela Morales] (https://www.behance.net/dani1294)
+by [Daniela Morales](https://www.behance.net/dani1294)
 
 ### Project website: 
 https://bump-it-in.webflow.io/
